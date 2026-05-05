@@ -21,6 +21,8 @@ public class ArrayDemo01 {
         for (int number : numbers) {
             System.out.println("元素: " + number);//hello
         }
+        System.out.println("===========================================");
+        System.out.println("数组的长度是: " + numbers.length);
     }
 
 }
